@@ -7,3 +7,4 @@ def square(number):
 
 result = square(5)
 print(f"The square of 5 is: {result}") 
+na dhan da leo git push
